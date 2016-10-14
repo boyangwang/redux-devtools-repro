@@ -1,0 +1,22 @@
+{
+  "name": "redux-devtools-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyangwang/redux-devtools-repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boyangwang/redux-devtools-repro/issues"
+  },
+  "homepage": "https://github.com/boyangwang/redux-devtools-repro#readme",
+  "dependencies": {
+    "redux": "^3.6.0"
+  }
+}
